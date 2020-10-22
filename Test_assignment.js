@@ -1,4 +1,8 @@
 
+example :  10 10 10 10 20 30 30 30 30 30 30 30 40 40 40 40 40 
+
+output  :  7
+
 var sock_arr = [1,2,3,4,1,3,1,3,3,3]; // Randomly number taken in Array
 
 var uniqu_number; 
